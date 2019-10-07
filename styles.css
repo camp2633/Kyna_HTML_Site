@@ -14,10 +14,15 @@ h1 {
   background-color: #FFDE7A;
   padding: 2%;
 }
+
 .header {
   padding: 60px;
   text-align: center;
   background-color: #800080;
   color: #F8F8FF;
   font-size: 30px;
+}
+
+.img-works {
+  width: 300px;
 }
