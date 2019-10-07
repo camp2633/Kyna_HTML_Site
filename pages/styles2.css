@@ -1,0 +1,12 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+h1 {
+  color: #800080;
+}
+
+#contact {
+  background-color: #FFDE7A;
+  padding: 2%;
+}
