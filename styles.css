@@ -10,6 +10,10 @@ h1 {
   background-color: #FFDE7A;
   padding: 2%;
 }
-.img-work8 {
-  background-image: url(/Users/Alison/Desktop/Kyna_HTML_Site/img/Work8.jpg);
+.header {
+  padding: 60px;
+  text-align: center;
+  background: 800080;
+  color: F8F8FF;
+  font-size: 30px;
 }
