@@ -1,0 +1,35 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+collections {
+  color: #800080;
+}
+
+client {
+  color: #F8F8FF;
+}
+
+pieces {
+  color: #F8F8FF;
+}
+
+medium {
+  color: #F8F8FF;
+}
+
+description {
+  color: #F8F8FF;
+}
+#contact {
+  background-color: #FFDE7A;
+  padding: 2%;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background-color: #800080;
+  color: #F8F8FF;
+  font-size: 30px;
+}
