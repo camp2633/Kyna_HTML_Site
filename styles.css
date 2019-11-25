@@ -7,7 +7,7 @@ body {
 
 .nav {
     background-color: #000000;
-    color: #800080;
+    color: #FFC0CB;
     list-style: none;
     text-align: center;
     padding: 20px 0 20px 0;
@@ -20,7 +20,7 @@ body {
 
 .nav > li > a {
   text-decoration: none;
-  color: #800080;
+  color: #FFC0CB;
 }
 
 .nav > li > a:hover {
@@ -28,7 +28,7 @@ body {
 }
 
 h2 {
-  color: #800080;
+  color: #FFC0CB;
 }
 
 h1 {
