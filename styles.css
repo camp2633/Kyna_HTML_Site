@@ -1,5 +1,30 @@
 body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
   font-family: "Arial", sans-serif;
+}
+
+.nav {
+    background-color: #000000;
+    color: #800080;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.nav > li {
+  display: inline-block;
+  padding-right: 50px;
+}
+
+.nav > li > a {
+  text-decoration: none;
+  color: #800080;
+}
+
+.nav > li > a:hover {
+  color: #DDA0DD;
 }
 
 h2 {
@@ -17,9 +42,4 @@ h1 {
 
 .img-works {
   width: 300px;
-}
-
-.banner {
-  width: 100%;
-  display: inline;
 }
